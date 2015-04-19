@@ -21,8 +21,8 @@ IOS_SDK=8.3
 FWNAME="openssl"
 
 # These values are used to avoid version detection
-FAKE_NIBBLE=0x102031af
-FAKE_TEXT="OpenSSL 0.9.8y 5 Feb 2013"
+FAKE_NIBBLE=0x1000201f
+FAKE_TEXT="OpenSSL 1.0.2a 19 Mar 2015"
 
 ## --------------------
 ## Variables
